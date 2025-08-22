@@ -2,7 +2,7 @@
 
 ### 🎉 Accepted at EMNLP-2025 (Long Paper)
 
-Soteria is a dataset designed for advancing **multilingual safety alignment** via **language-specific functional parameter steering**.  
+Soteria is a method designed for advancing **multilingual safety alignment** via **language-specific functional parameter steering**.  
 Our work aims to enhance the safety and robustness of multilingual language models by providing high-quality aligned data across languages.
 
 ---
