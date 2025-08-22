@@ -11,7 +11,7 @@ We release our dataset on Hugging Face:  👉 [SoftMINER-Group/Soteria](https://
 ---
 
 ## 📄 Paper
-Read our paper here:  👉 [Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment](https://arxiv.org/abs/2502.11244)
+Read our paper here:  👉 [Read the paper](https://arxiv.org/abs/2502.11244)
 
 ---
 
