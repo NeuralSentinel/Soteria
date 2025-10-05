@@ -5,7 +5,7 @@ import torch
 import time
 import argparse
 import os
-hf_access_token = "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"
+hf_access_token = ""
 
 # %%
 """
